@@ -1,5 +1,8 @@
 <p align="center"><img src="https://gpvc.arturio.dev/sillyangel" alt="Visitors"></a>
 
-im that person who makes javascript stuff and websites
+<i>- note that the view count is fake i made a mini python script for that </i>
 
-<a target="_blank"><img src="https://github.com/sillyangel/sillyangel/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+
+**TAGS!!!**
+
+<a href="https://sillyangel3.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
