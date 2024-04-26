@@ -1,1 +1,1 @@
-on ![gitlab.com](https://gitlab.com/sillyangel)
+on [gitlab.com](https://gitlab.com/sillyangel)
