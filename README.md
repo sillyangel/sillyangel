@@ -1,5 +1,6 @@
 angel, 14
 
+currently creating a new frontend to a proxy
 ### projects?
 [playmusichtml.web.app](https://playmusichtml.web.app/) 
 
