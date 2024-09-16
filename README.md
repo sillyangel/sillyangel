@@ -1,6 +1,6 @@
 angel, 14
 
-currently creating a new frontend to a proxy
+currently continuing on working on offbrand spotify
 ### projects?
 [playmusichtml.web.app](https://playmusichtml.web.app/) 
 
