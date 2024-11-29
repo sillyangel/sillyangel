@@ -6,3 +6,6 @@ currently continuing on working on offbrand spotify
 
 ### other profiles
 [gitlab.com](https://gitlab.com/sillyangel)
+
+#### contact me
+sillyangel@hackclub.app
