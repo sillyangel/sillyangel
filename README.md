@@ -1,16 +1,26 @@
 angel, 14
+Web & App Developer
+Technologies: JavaScript, TypeScript, Java, HTML, CSS, React Native, Next.js
 
-javascript, typescript, java, html, css, react native, nextjs (shadui)
+---
 
-### projects
-[nugget](https://github.com/sillyangel/nugget) 
-- a forge, fabric minecraft mod about a chicken nugget with roblox man face
+### Projects
 
-[offbrand spotify](https://github.com/sillyangel/project-still)
-- nextjs rewrite of my [previous](https://playmusichtml.web.app/) version  
-### other profiles
-[gitlab.com](https://gitlab.com/sillyangel)
-[scratch.mit.edu](https://scratch.mit.edu/users/sillyangel3/)
+- **[Nugget](https://github.com/sillyangel/nugget)**  
+  A Minecraft mod for Forge and Fabric featuring a chicken nugget with a Roblox man face.  
 
-#### contact me
-✉ email: [angel@sillyangel.xyz](mailto:angel@sillyangel.xyz)
+- **[Offbrand Spotify](https://github.com/sillyangel/project-still)**  
+  A Next.js rewrite of my previous [version](https://playmusichtml.web.app/).  
+
+---
+
+### Contact Me
+
+✉ **Email:** [angel@sillyangel.xyz](mailto:angel@sillyangel.xyz)
+
+---
+
+### Other Profiles
+
+- **[GitLab](https://gitlab.com/sillyangel)**
+- **[Scratch](https://scratch.mit.edu/users/sillyangel3/)**
