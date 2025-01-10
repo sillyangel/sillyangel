@@ -2,8 +2,6 @@ angel, 14
 
 Web & App Developer
 
-Technologies: JavaScript, TypeScript, Java, HTML, CSS, React Native, Next.js
-
 ---
 
 ### Projects
