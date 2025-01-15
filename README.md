@@ -16,7 +16,7 @@ Web & App Developer
 
 ### Contact Me
 
-✉ **Email:** [angel@sillyangel.xyz](mailto:angel@sillyangel.xyz)
+✉ **Email:** [angel@sillyangel.dev](mailto:angel@sillyangel.dev)
 
 ---
 
