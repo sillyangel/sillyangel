@@ -7,7 +7,7 @@ Web & App Developer
 ### Projects
 
 - **[Nugget](https://github.com/sillyangel/nugget)**  
-  A Minecraft mod for Forge and Fabric featuring a chicken nugget with a Roblox man face.  
+  A Minecraft java mod for Forge and Fabric featuring a chicken nugget with a Roblox man face.  
 
 - **[Offbrand Spotify](https://github.com/sillyangel/project-still)**  
   A Next.js rewrite of my previous [version](https://playmusichtml.web.app/).  
