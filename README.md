@@ -4,19 +4,20 @@ Web & App Developer
 
 ---
 
-### Projects
+### Projects 
+> latest project first
+
+- **[Mice | Navidrome Client](https://github.com/sillyangel/mice)**  
+  Rework of my [static music player](https://playmusichtml.web.app/), but with navidrome support.
 
 - **[Nugget](https://github.com/sillyangel/nugget)**  
   A Minecraft java mod for Forge and Fabric featuring a chicken nugget with a Roblox man face.  
-
-- **[Offbrand Spotify](https://github.com/sillyangel/project-still)**  
-  A Next.js rewrite of my previous [version](https://playmusichtml.web.app/).  
 
 ---
 
 ### Contact Me
 
-✉ **Email:** [angel@sillyangel.dev](mailto:angel@sillyangel.dev)
+✉ **Email:** [angel@sillyangel.xyz](mailto:angel@sillyangel.xyz)
 
 ---
 
