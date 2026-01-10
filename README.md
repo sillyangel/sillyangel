@@ -1,5 +1,11 @@
-angel, 15
+```typescript
+// angel@localhost ---------------------------|
+age = 15;//                                   |
+website = "sillyangel.dev";//                 |
+email = "angel@sillyangel.dev";//             |
+discord = "sillyangel14";//                   |
+instagram = "sillyangel15";//                 |
+gitea = "https://git.sillyangel.dev/angel";// |
+// -------------------------------------------|
+```
 
-[self-hosted gitea](https://git.sillyangel.dev)
-
-making websites & self-hosting everything I can.
