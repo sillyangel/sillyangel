@@ -8,7 +8,8 @@ instagram = "sillyangel15";//                 |
 gitea = "https://git.sillyangel.dev/angel";// |
 // -------------------------------------------|
 ```
-
+<details>
+<summary><b>support me</b></summary>
 ```typescript
 // support me -------------------------------|
 const donations = {
@@ -41,3 +42,4 @@ const donations = {
 // -------------------------------------------|
 
 ```
+</details>
