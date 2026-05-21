@@ -1,6 +1,6 @@
 ```typescript
 // angel@localhost ---------------------------|
-age = 15;//                                   |
+age = 16;//                                   |
 website = "sillyangel.dev";//                 |
 email = "angel@sillyangel.dev";//             |
 discord = "sillyangel14";//                   |
