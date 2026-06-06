@@ -3,8 +3,8 @@
 age = 16;//                                   |
 website = "sillyangel.dev";//                 |
 email = "angel@sillyangel.dev";//             |
-discord = "sillyangel14";//                   |
-instagram = "sillyangel15";//                 |
+discord = "sillyangel16";//                   |
+instagram = "angelisveryawesome";//           |
 gitea = "https://git.sillyangel.dev/angel";// |
 // -------------------------------------------|
 ```
