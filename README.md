@@ -1,12 +1,10 @@
 ```typescript
-// angel@localhost ---------------------------|
-age = 16;//                                   |
-website = "sillyangel.dev";//                 |
-email = "angel@sillyangel.dev";//             |
-discord = "sillyangel16";//                   |
-instagram = "angelisveryawesome";//           |
-gitea = "https://git.sillyangel.dev/angel";// |
-// -------------------------------------------|
+// angel@localhost ---------------------------------------|
+age = 16;//                                               |
+website = "sillyangel.dev";//                             |
+email = "angel@sillyangel.dev";//                         |
+my personal gitea = "https://git.sillyangel.dev/angel";// |
+// -------------------------------------------------------|
 ```
 <details>
 <summary><b>support me</b></summary>
